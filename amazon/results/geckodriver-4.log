@@ -1,0 +1,9 @@
+1621647389838	geckodriver	INFO	Listening on 127.0.0.1:47439
+1621647389851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile16t0mz"
+1621647390496	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621647392762	Marionette	INFO	Listening on port 40957
+1621647392890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621647401106	Marionette	INFO	Stopped listening on port 40957
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
